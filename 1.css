@@ -54,6 +54,6 @@ div.column .content div {
 	margin-top: 0.3em;
 }
 
-.content a {
+.content a:hover {
 	text-decoration: underline;
 }
